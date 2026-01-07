@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+cache
+cache/*
+ttimes/
+*.zip
+*.pbf
+*.geojson
+.DS_Store
